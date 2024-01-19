@@ -7,6 +7,7 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kagangullu)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagangullu&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
