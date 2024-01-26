@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/oguzkgullu" target="blank"><img src="https://img.shields.io/twitter/follow/oguzkgullu?logo=twitter&style=for-the-badge" alt="oguzkgullu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [appga](appga)
-
 - 💬 Ask me about **Flutter, Firebase**
 
 - 📫 How to reach me **oguzkagan.business@gmail.com**
