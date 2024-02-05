@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuz Kağan Güllü</h1>
 <h3 align="center">A 14 years old Flutter developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kagangullu" alt="kagangullu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/oguzkgullu" target="blank"><img src="https://img.shields.io/twitter/follow/oguzkgullu?logo=twitter&style=for-the-badge" alt="oguzkgullu" /></a> </p>
 
 - 💬 Ask me about **Flutter, Firebase**
